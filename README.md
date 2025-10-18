@@ -23,7 +23,7 @@ I'm Saugat Dhungana, a passionate developer and technology enthusiast from Nepal
 ## 🧰 Tech Stack
 
 - **Languages:** Python, JavaScript, C, C++
-- **Frameworks:** React, Node.js, Django
+- **Frameworks:** React, Node.js, Django, Tensorflow, Scikit-Learn. 
 - **Tools:** Git, Docker, Linux
 - **Other:** REST APIs, IoT, AI/ML basics
 
