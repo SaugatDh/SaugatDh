@@ -8,9 +8,6 @@
 
 I'm Saugat Dhungana, a passionate developer and technology enthusiast from Nepal. I love building impactful software solutions and am always eager to learn new technologies. My interests span across web development, AI, and innovative side projects.
 
-- 🔭 I’m currently working on **smart-farm** ([repo](https://github.com/SaugatDh/smart-farm-))
-- 🌱 I’m learning advanced AI and cloud technologies
-- 💬 Ask me about anything related to Python, JavaScript, or web dev
 - 📫 How to reach me: [saugat.dhungana@gmail.com](mailto:saugatdhungana746@gmail.com)
 - 🌐 Portfolio: [saugat-dhungana.com.np](https://www.saugat-dhungana.com.np/)
 
