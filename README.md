@@ -17,7 +17,7 @@ Building production-grade AI systems in Kathmandu, Nepal 🇳🇵
 
 I'm an AI Engineer at IOXET, building intelligent systems for real-world government and enterprise challenges — from Document AI pipelines for municipality chatbots to fine-tuned NLP models for Nepali language tasks.
 
-- 🏗️ Currently building a **Document AI chatbot** for Nepal municipality citizen charters using Google Document AI, Pinecone, and Django
+- 🏗️ Currently building a **Document AI chatbot** for Nepali Documents using Document AI, Pinecone, and Django
 - 🤗 Published Nepali **ASR** and **NE→EN translation** models on HuggingFace
 - 🏆 **1st place** at DELTA Hackathon 5.0 (Smart Farm — IoT + ML)
 - 🎓 B.E. in Computer Engineering, Madan Bhandari College of Engineering
