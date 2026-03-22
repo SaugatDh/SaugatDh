@@ -1,41 +1,68 @@
-# Hi there, I'm Saugat Dhungana 👋
+# Saugat Dhungana
 
-[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://www.saugat-dhungana.com.np/)
-[![GitHub](https://img.shields.io/badge/GitHub-SaugatDh-black?style=flat-square&logo=github)](https://github.com/SaugatDh)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=flat-square&logo=facebook)](https://www.facebook.com/saugat201)
+**AI Engineer · ML & Backend Specialist**
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-saugat--dhungana.com.np-black?style=flat-square)](https://saugat-dhungana.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saugat--dhungana-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/saugat-dhungana-41899129a)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Saugat212-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Saugat212)
+[![Email](https://img.shields.io/badge/Email-saugatdhungana746@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saugatdhungana746@gmail.com)
 
-I'm Saugat Dhungana, a passionate developer and technology enthusiast from Nepal. I love building impactful software solutions and am always eager to learn new technologies. My interests span across web development, AI, and innovative side projects.
+Building production-grade AI systems in Kathmandu, Nepal 🇳🇵
 
-- 📫 How to reach me: [saugat.dhungana@gmail.com](mailto:saugatdhungana746@gmail.com)
-- 🌐 Portfolio: [saugat-dhungana.com.np](https://www.saugat-dhungana.com.np/)
-
-## 🛠️ Projects
-
-- [MeroShop](https://github.com/SaugatDh/MeroShop) - E-commerce platform built with modern tech.
-- [Chatbot](https://github.com/SaugatDh/chatbot) - Conversational AI assistant.
-- [Smart Farm](https://github.com/SaugatDh/smart-farm-) - IoT-based smart agriculture solution.
-
-## 🧰 Tech Stack
-- Languages: Python, JavaScript, C, C++
-- Frameworks: React, Node.js, Django, TensorFlow, PyTorch, Scikit-Learn, Hugging Face
-- Tools: Git, Docker, Linux
-- Other: REST APIs, IoT, AI/ML
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaugatDh&show_icons=true&theme=radical" alt="SaugatDh's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaugatDh&theme=radical" alt="SaugatDh's GitHub streak" />
-</p>
-
-## 📫 Let's Connect!
-
-- [Portfolio](https://www.saugat-dhungana.com.np/)
-- [Facebook](https://www.facebook.com/saugat201)
+</div>
 
 ---
 
-*Thanks for visiting my profile! Feel free to check out my repositories and connect!*
+## About
+
+I'm an AI Engineer at IOXET, building intelligent systems for real-world government and enterprise challenges — from Document AI pipelines for municipality chatbots to fine-tuned NLP models for Nepali language tasks.
+
+- 🏗️ Currently building a **Document AI chatbot** for Nepal municipality citizen charters using Google Document AI, Pinecone, and Django
+- 🤗 Published Nepali **ASR** and **NE→EN translation** models on HuggingFace
+- 🏆 **1st place** at DELTA Hackathon 5.0 (Smart Farm — IoT + ML)
+- 🎓 B.E. in Computer Engineering, Madan Bhandari College of Engineering
+
+---
+
+## Tech Stack
+
+**AI / ML**
+`PyTorch` `HuggingFace Transformers` `LangChain` `scikit-learn` `TensorFlow`
+
+**Document AI & RAG**
+`Google Document AI` `Pinecone` `ChromaDB` `OCR Pipelines` `RAG`
+
+**Backend**
+`Django` `Django REST Framework` `FastAPI` `Celery` `Redis`
+
+**Infra & DevOps**
+`Linux (Arch/Ubuntu)` `Docker` `Nginx` `Gunicorn` `Git`
+
+**Languages**
+`Python` `JavaScript` `C/C++` `SQL` `PHP`
+
+---
+
+## Featured Projects
+
+### 🏥 [Ausadhu AI](https://github.com/SaugatDh/Ausadhi-AI)
+OCR + vector search pipeline for medicine label scanning. Extracts drug information from photos and matches against a vector database for instant retrieval.
+
+### 🌾 [Smart Farm](https://github.com/SaugatDh/smart-farm-)
+IoT + ML farm monitoring system combining sensor data with ML inference. **Won 1st place at DELTA Hackathon 5.0**, Dharan 2024.
+
+### 🤗 [HuggingFace Models](https://huggingface.co/Saugat212)
+- [`Saugat212/ne-en-nllb-model`](https://huggingface.co/Saugat212/ne-en-nllb-model) — Fine-tuned NLLB for Nepali → English translation
+- [`Saugat212/ASR_MODEL`](https://huggingface.co/Saugat212/ASR_MODEL) — Fine-tuned Wav2Vec2 for Nepali speech recognition
+
+### ✍️ [Shakespeare Text Generator](https://github.com/SaugatDh/Shakespeare-text-generator)
+RNN encoder-decoder model that generates Shakespeare-style prose from simple prompts.
+
+### 🛒 [MeroShop](https://github.com/SaugatDh/MeroShop-Ecommerce-Laravel-)
+Full-featured e-commerce platform built with Laravel — product management, cart, checkout, and admin dashboard on MVC architecture.
+
+---
+
+<div align="center">
+  <sub>Open to AI/ML collaborations and freelance projects.</sub>
+</div>
