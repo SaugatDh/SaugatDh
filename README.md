@@ -17,10 +17,10 @@ Building production-grade AI systems in Kathmandu, Nepal 🇳🇵
 
 I'm an AI Engineer at IOXET, building intelligent systems for real-world government and enterprise challenges — from Document AI pipelines for municipality chatbots to fine-tuned NLP models for Nepali language tasks.
 
-- 🏗️ Currently building a **Document AI chatbot** for Nepali Documents using Document AI, Pinecone, and Django
-- 🤗 Published Nepali **ASR** and **NE→EN translation** models on HuggingFace
-- 🏆 **1st place** at DELTA Hackathon 5.0 (Smart Farm — IoT + ML)
-- 🎓 B.E. in Computer Engineering, Madan Bhandari College of Engineering
+- Currently building a **Document AI chatbot** for Nepali Documents using Document AI, Pinecone, and Django
+- Published Nepali **ASR** and **NE→EN translation** models on HuggingFace
+- **1st place** at DELTA Hackathon 5.0 (Smart Farm — IoT + ML)
+- B.E. in Computer Engineering, Madan Bhandari College of Engineering
 
 ---
 
@@ -45,20 +45,20 @@ I'm an AI Engineer at IOXET, building intelligent systems for real-world governm
 
 ## Featured Projects
 
-### 🏥 [Ausadhu AI](https://github.com/SaugatDh/Ausadhi-AI)
+### [Ausadhu AI](https://github.com/SaugatDh/Ausadhi-AI)
 OCR + vector search pipeline for medicine label scanning. Extracts drug information from photos and matches against a vector database for instant retrieval.
 
-### 🌾 [Smart Farm](https://github.com/SaugatDh/smart-farm-)
+### [Smart Farm](https://github.com/SaugatDh/smart-farm-)
 IoT + ML farm monitoring system combining sensor data with ML inference. **Won 1st place at DELTA Hackathon 5.0**, Dharan 2024.
 
-### 🤗 [HuggingFace Models](https://huggingface.co/Saugat212)
+### [HuggingFace Models](https://huggingface.co/Saugat212)
 - [`Saugat212/ne-en-nllb-model`](https://huggingface.co/Saugat212/ne-en-nllb-model) — Fine-tuned NLLB for Nepali → English translation
 - [`Saugat212/ASR_MODEL`](https://huggingface.co/Saugat212/ASR_MODEL) — Fine-tuned Wav2Vec2 for Nepali speech recognition
 
-### ✍️ [Shakespeare Text Generator](https://github.com/SaugatDh/Shakespeare-text-generator)
+### [Shakespeare Text Generator](https://github.com/SaugatDh/Shakespeare-text-generator)
 RNN encoder-decoder model that generates Shakespeare-style prose from simple prompts.
 
-### 🛒 [MeroShop](https://github.com/SaugatDh/MeroShop-Ecommerce-Laravel-)
+### [MeroShop](https://github.com/SaugatDh/MeroShop-Ecommerce-Laravel-)
 Full-featured e-commerce platform built with Laravel — product management, cart, checkout, and admin dashboard on MVC architecture.
 
 ---
